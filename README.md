@@ -13,8 +13,13 @@ I've whipped up a bunch of mini projects covering a variety of topics and intere
 * Password Generator
 * Snake Water Gun
 * Health Management System
+  
 And More: I'm always adding new projects, so be sure to check back often!
 
+## Libraries Used?
+* pygame
+* random
+* playsound
 
 ## Contributions
 Have an idea for a cool project? Found a bug? Feel free to open an issue or submit a pull request! I'm always open to collaboration and feedback.
