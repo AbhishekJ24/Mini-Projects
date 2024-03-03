@@ -1,7 +1,7 @@
 import datetime
 def getDate():
     return datetime.datetime.now()
-print("\n\n~~~~~~~~~~~~~~~ ABHISHEK'S HEALTH MANAGEMENT SYSTEM WELCOMES YOU ~~~~~~~~~~~~~~~\n")
+print("\n\n~~~~~~~~~~~~~~ ABHISHEK'S HEALTH MANAGEMENT SYSTEM WELCOMES YOU ~~~~~~~~~~~~~~\n")
 repeater=1
 while(repeater):
     f1=open('USER1Food.txt','a')
@@ -101,4 +101,4 @@ while(repeater):
     else:
         print("INVALID CHOICE ENTERED")
         repeater=0
-    print("\n------------------------------------------------------------\n")
+    print("\n-----------------------------------------------------------\n")
